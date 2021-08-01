@@ -26,3 +26,5 @@ This notebook covers the following tasks:
     - Deleting columns from a data-frame
     - Deleting rows from a data-frame
     - Applying a function over all elements of a column
+    
+## Data Visualization
