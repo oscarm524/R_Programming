@@ -28,3 +28,17 @@ This notebook covers the following tasks:
     - Applying a function over all elements of a column
     
 ## Data Visualization
+
+This notebook covers the following tasks using base R:
+
+    - How to create a simple plot
+    - Histogram
+    - Subplots
+    - Bar chart
+    - Grouped bar chart
+    - Stacked bar chart
+    - Stacked percentage bar chart
+    - Pie chart
+    - Box plot
+    - Side-by-Side box plot
+    - Scatter plot
