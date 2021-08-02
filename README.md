@@ -42,3 +42,19 @@ This notebook covers the following tasks using base R:
     - Box plot
     - Side-by-Side box plot
     - Scatter plot
+    
+## Dates and Times
+
+This notebook covers the following tasks:
+
+    - Converting strings to date-time object
+    - Subsetting observations based on dates
+    - Extraction of multiple features from dates
+        - Year
+        - Month
+        - Day
+        - Hour
+        - Minute
+    - Difference between dates
+    - Creating lagged features
+    - Rolling window calculations
